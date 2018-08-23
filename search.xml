@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[python入门到会用，于作者同步学习]]></title>
+    <url>%2F2018%2F08%2F23%2Fpython%E5%85%A5%E9%97%A8%E5%88%B0%E4%BC%9A%E7%94%A8%EF%BC%8C%E4%BA%8E%E4%BD%9C%E8%80%85%E5%90%8C%E6%AD%A5%E5%AD%A6%E4%B9%A0%2F</url>
+    <content type="text"><![CDATA[基础：变量与字符串 你需要一遍看一遍敲代码，如果安装环境出现问题，请自行百度。 变量变量是编程中的储存单位，可以暂时储存你输入的东西如果说生命对于42，在编程语言中应该是：12标识符 赋值符 值answer = 42 print()1print(&apos;这里是你想输入的东西&apos;) 但是如果输入print(a)是不行的，Python不能打印不存在的对象输入print(answer)得到42 字符串1234&quot;可以输入文字&quot;&apos;和双引号一样&apos;&apos;&apos;&apos;太长的文字需要换行怎么办，用三个单引号&apos;&apos;&apos; 祝你在这里记录、阅读、分享愉快！ 作者： 郭恩泽 有问题找tianjiangqiji@qq.com或者tianjiangqiji@163.com2018 年 07月 30日]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[下载专区]]></title>
     <url>%2F2018%2F08%2F19%2F%E4%B8%8B%E8%BD%BD%E4%B8%93%E5%8C%BA%2F</url>
     <content type="text"><![CDATA[下载专区 蓝灯（侵删）链接：https://pan.baidu.com/s/1osWI5rmrH3o37rNmbTGG4A 密码：1fgv 2018/8/19 祝你在这里记录、阅读、分享愉快！ 作者： 郭恩泽 有问题找tianjiangqiji@163.com2018 年 07月 30日]]></content>
