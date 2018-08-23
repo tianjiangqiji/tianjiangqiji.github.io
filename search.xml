@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[python入门到会用，于作者同步学习]]></title>
     <url>%2F2018%2F08%2F23%2Fpython%E5%85%A5%E9%97%A8%E5%88%B0%E4%BC%9A%E7%94%A8%EF%BC%8C%E4%BA%8E%E4%BD%9C%E8%80%85%E5%90%8C%E6%AD%A5%E5%AD%A6%E4%B9%A0%2F</url>
-    <content type="text"><![CDATA[基础：变量与字符串 你需要一遍看一遍敲代码，如果安装环境出现问题，请自行百度。 变量变量是编程中的储存单位，可以暂时储存你输入的东西如果说生命对于42，在编程语言中应该是：12标识符 赋值符 值answer = 42 print()1print(&apos;这里是你想输入的东西&apos;) 但是如果输入print(a)是不行的，Python不能打印不存在的对象输入print(answer)得到42 字符串1234&quot;可以输入文字&quot;&apos;和双引号一样&apos;&apos;&apos;&apos;太长的文字需要换行怎么办，用三个单引号&apos;&apos;&apos; 祝你在这里记录、阅读、分享愉快！ 作者： 郭恩泽 有问题找tianjiangqiji@qq.com或者tianjiangqiji@163.com2018 年 07月 30日]]></content>
+    <content type="text"><![CDATA[基础：变量与字符串 你需要一遍看一遍敲代码，如果安装环境出现问题，请自行百度。 变量变量是编程中的储存单位，可以暂时储存你输入的东西如果说生命对于42，在编程语言中应该是：12标识符 赋值符 值answer = 42 print()1print(&apos;这里是你想输入的东西&apos;) 但是如果输入print(a)是不行的，Python不能打印不存在的对象输入print(answer)得到42 字符串1234&quot;可以输入文字&quot;&apos;和双引号一样&apos;&apos;&apos;&apos;太长的文字需要换行怎么办，用三个单引号&apos;&apos;&apos; 待续未完 祝你在这里记录、阅读、分享愉快！ 作者： 郭恩泽 有问题找tianjiangqiji@qq.com或者tianjiangqiji@163.com2018 年 07月 30日]]></content>
       <categories>
         <category>Python</category>
       </categories>
@@ -21,29 +21,6 @@
       <tags>
         <tag>Markdown</tag>
         <tag>语法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[路滑，骑车不要太快]]></title>
-    <url>%2F2018%2F07%2F26%2F%E8%B7%AF%E6%BB%91%EF%BC%8C%E9%AA%91%E8%BD%A6%E4%B8%8D%E8%A6%81%E5%A4%AA%E5%BF%AB%2F</url>
-    <content type="text"><![CDATA[路滑，骑车不要太快 天气：小小雨转多云 今天下午骑自行车作死骑快（不是太快）四处逛荡，篮子里放了个大书包，重心不稳，我没太在意，还是左右左右尽管没有QE但还是很浪，突然（其实什么都没有发生）一辆贴满广告的红皮摩的停在路边，给你们画一下。 画得有点简陋，能看就行，发现红皮车里有人，我距离红皮车有14米左右，红皮车一直没动，说明短时间内不会动，我‘机智’地响了几下铃，速度不变，往右拐一点走图中的白色区域（图画错了）。又是一个突然，红皮车 ** 居然往右一拐，把路堵死，你知道游戏中的漂移吗，加速转弯再刹车，现实中的汽车也一样，而再水中的自行车其实不用刹车就可以实现水中漂移，脑补画面，最后还是用了绝技，跳车。也没怎么样只是鞋湿了，书包湿了而已，而已，而已。。。。。。。。。。。妈呀，书包湿了。 最后告诉大家骑车不要太快，即使不下雨 ！祝你在这里记录、阅读、分享愉快！ 作者： 郭恩泽有问题找tianjiangqiji@qq.com或者tianjiangqiji@163.com2018 年 07月 27日]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[欢迎来到郭恩泽的第一篇博客]]></title>
-    <url>%2F2018%2F07%2F25%2F%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%20--%E9%83%AD%E6%81%A9%E6%B3%BD--%20%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%2F</url>
-    <content type="text"><![CDATA[欢迎来到 郭恩泽 的第一篇博客 为了这个博客制作弄了三天，下面为博客的日志。 18/7/23四处寻找关于这个的资料 7/24已经搭建好环境并且可以本地展览了 7/25（本文发布的这天）处理好各种各样的错误然后发布到GitHub的库里 后面会不定期更新，祝我越来越厉害 ！祝你在这里记录、阅读、分享愉快！ 作者： 郭恩泽有问题找tianjiangqiji@qq.com或者tianjiangqiji@163.com2018 年 07月 25日]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>生活</tag>
-        <tag>公告</tag>
       </tags>
   </entry>
 </search>
