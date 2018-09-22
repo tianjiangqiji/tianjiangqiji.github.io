@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[学习笔记-初二物理]]></title>
+    <url>%2F2018%2F09%2F22%2F%E5%85%AB%E5%B9%B4%E7%BA%A7%E7%89%A9%E7%90%86%2F</url>
+    <content type="text"><![CDATA[简介初二是初中的关键，一旦走错不可挽回，所以这里针对初二，初三做出学习笔记，更新随作者学习（好像暴露年龄了）。其他科目随之更新，语文政治可能不会有很普通的学习，只有精华。 长度与时间关于运动的理论自己背，不在强调。 长度的国家基本单位为米（m）。长度单位换算： （粗体为课本内容，重点） 1 km = 1000 m1 Mm(兆米) = 1e6 m1 AU(天文单位) = 1.496e11 m1 Pm(拍米) = 1e15 m1 ly(光年) = 9.4607e15 m1 Em(艾米) = 1e18 m1 Zm(泽米) = 1e21 m1 YM9(尧米) = 1e24 m 1 m = 10 dm1 m = 100 cm1 m = 1000 mm1 m = 1e6 μm(微米)1 m = 1e9 nm(纳米)1 m = 1e12 pm(皮米)1 m = 1e15 fm(飞米)1 m = 1e18 am(阿米)1 m = 1e21 zepto(仄米)1 m = 1e24 ym(幺米)时间的国家基本单位为秒（s）。 待续未完]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[python入门到会用，于作者同步学习]]></title>
     <url>%2F2018%2F08%2F23%2Fpython%E5%85%A5%E9%97%A8%E5%88%B0%E4%BC%9A%E7%94%A8%EF%BC%8C%E4%BA%8E%E4%BD%9C%E8%80%85%E5%90%8C%E6%AD%A5%E5%AD%A6%E4%B9%A0%2F</url>
     <content type="text"><![CDATA[基础：变量与字符串 你需要一遍看一遍敲代码，如果安装环境出现问题，请自行百度。 变量变量是编程中的储存单位，可以暂时储存你输入的东西如果说生命对于42，在编程语言中应该是：12标识符 赋值符 值answer = 42 print()1print(&apos;这里是你想输入的东西&apos;) 但是如果输入print(a)是不行的，Python不能打印不存在的对象输入print(answer)得到42 字符串1234&quot;可以输入文字&quot;&apos;和双引号一样&apos;&apos;&apos;&apos;太长的文字需要换行怎么办，用三个单引号&apos;&apos;&apos; 待续未完 祝你在这里记录、阅读、分享愉快！ 作者： 郭恩泽 有问题找tianjiangqiji@qq.com或者tianjiangqiji@163.com2018 年 07月 30日]]></content>
