@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/xiazaizhuanqu.html</loc>
+    
+    <lastmod>2018-12-15T01:37:12.805Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2018-12-09T05:41:49.095Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>http://yoursite.com/qqdzz.html</loc>
     
     <lastmod>2018-11-03T09:35:46.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/xiazaizhuanqu.html</loc>
-    
-    <lastmod>2018-11-03T09:20:08.000Z</lastmod>
     
   </url>
   
