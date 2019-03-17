@@ -1,31 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[学习笔记-初二物理]]></title>
-    <url>%2F2018%2F09%2F22%2F%E5%85%AB%E5%B9%B4%E7%BA%A7%E7%89%A9%E7%90%86%2F</url>
-    <content type="text"><![CDATA[简介初二是初中的关键，一旦走错不可挽回，所以这里针对初二，初三做出学习笔记，更新随作者学习（好像暴露年龄了）。其他科目随之更新，语文政治可能不会有很普通的学习，只有精华。 长度与时间关于运动的理论自己背，不在强调。 长度的国家基本单位为米（m）。长度单位换算： （粗体为课本内容，重点） 1 km = 1000 m1 Mm(兆米) = 1e6 m1 AU(天文单位) = 1.496e11 m1 Pm(拍米) = 1e15 m1 ly(光年) = 9.4607e15 m1 Em(艾米) = 1e18 m1 Zm(泽米) = 1e21 m1 YM9(尧米) = 1e24 m 1 m = 10 dm1 m = 100 cm1 m = 1000 mm1 m = 1e6 μm(微米)1 m = 1e9 nm(纳米)1 m = 1e12 pm(皮米)1 m = 1e15 fm(飞米)1 m = 1e18 am(阿米)1 m = 1e21 zepto(仄米)1 m = 1e24 ym(幺米)时间的国家基本单位为秒（s）。 待续未完]]></content>
+    <title><![CDATA[公告]]></title>
+    <url>%2F2019%2F03%2F17%2F%E5%85%AC%E5%91%8A%2F</url>
+    <content type="text"><![CDATA[公告 此博客不定期更新，欢迎浏览。以后有什么事情将会在这里说明。 祝你在这里记录、阅读、分享愉快！ 作者：天降奇迹 有问题找tianjiangqiji@qq.com或者tianjiangqiji@163.com2018 年 07月 30日]]></content>
       <categories>
-        <category>学习笔记</category>
+        <category>公告</category>
       </categories>
       <tags>
-        <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[python入门到会用，于作者同步学习]]></title>
-    <url>%2F2018%2F08%2F23%2Fpython%E5%85%A5%E9%97%A8%E5%88%B0%E4%BC%9A%E7%94%A8%EF%BC%8C%E4%BA%8E%E4%BD%9C%E8%80%85%E5%90%8C%E6%AD%A5%E5%AD%A6%E4%B9%A0%2F</url>
-    <content type="text"><![CDATA[基础：变量与字符串 你需要一遍看一遍敲代码，如果安装环境出现问题，请自行百度。 变量变量是编程中的储存单位，可以暂时储存你输入的东西如果说生命对于42，在编程语言中应该是：12标识符 赋值符 值answer = 42 print()1print(&apos;这里是你想输入的东西&apos;) 但是如果输入print(a)是不行的，Python不能打印不存在的对象输入print(answer)得到42 字符串1234&quot;可以输入文字&quot;&apos;和双引号一样&apos;&apos;&apos;&apos;太长的文字需要换行怎么办，用三个单引号&apos;&apos;&apos; 待续未完 祝你在这里记录、阅读、分享愉快！ 作者： 郭恩泽 有问题找tianjiangqiji@qq.com或者tianjiangqiji@163.com2018 年 07月 30日]]></content>
-      <categories>
-        <category>Python</category>
-      </categories>
-      <tags>
-        <tag>Python</tag>
+        <tag>公告</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[Markdown基本语法]]></title>
     <url>%2F2018%2F08%2F01%2FMarkdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%2F</url>
-    <content type="text"><![CDATA[Markdown基本语法 markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。 相比WYSIWYG编辑器 优点：1、因为是纯文本，所以只要支持markdown的地方都能获得一样的编辑效果，可以让作者摆脱排版的困扰，专心写作。2、操作简单。比如:WYSIWYG编辑时标记个标题，先选中内容，再点击导航栏的标题按钮，选择几级标题。要三个步骤。而markdown只需要在标题内容前加#即可 缺点：1、需要记一些语法（当然，是很简单。五分钟学会）。2、有些平台不支持markdown编辑模式。 一，标题在想要设置为标题的文字前面加#来表示一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。 注：标准语法一般在#后跟个空格再写文字，貌似简书不加空格也行。 示例： 这是一级标题这是二级标题这是三级标题这是四级标题这是五级标题这是六级标题 二、字体加粗要加粗的文字左右分别用两个号包起来斜体要倾斜的文字左右分别用一个号包起来斜体加粗要倾斜和加粗的文字左右分别用三个*号包起来删除线要加删除线的文字左右分别用两个~~号包起来示例：1234**这是加粗的文字***这是倾斜的文字****这是斜体加粗的文字***~~这是加删除线的文字~~ 就出现 这是加粗的文字这是倾斜的文字这是斜体加粗的文字这是加删除线的文字 三，引用在引用的文字前加&gt;即可。引用也可以嵌套，如加两个&gt;&gt;三个&gt;&gt;&gt;n个…貌似可以一直加下去，但没神马卵用示例：123&gt; 这是引用的内容&gt;&gt; 这是引用的内容&gt;&gt;&gt; 这是引用的内容 这是引用的内容 这是引用的内容 这是引用的内容 四、分割线三个或者三个以上的 - 或者 * 都可以。示例：12---*** 出现的分割线是一样的 五、图片语法：1![图片alt](图片地址 &apos;&apos;图片title&apos;&apos;) 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加 输入12![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&amp;fm=27&amp;gp=0.jpg) 图片就有了 六、超链接语法：1[超链接名](超链接地址 &quot;超链接title&quot;) title可加可不加示例： 百度 七、列表无序列表语法：无序列表用 - + * 任何一种都可以123- 列表内容+ 列表内容* 列表内容 注意：- + * 跟内容之间都要有一个空格 效果如下： 列表内容 列表内容 列表内容 有序列表语法：数字加点 1.列表内容2.列表内容3.列表内容 注意：序号跟内容之间要有空格 八、表格语法：1234表头|表头|表头---|:--:|---:内容|内容|内容内容|内容|内容 第二行分割表头和内容。 有一个就行，为了对齐，多加了几个文字默认居左-两边加：表示文字居中-右边加：表示文字居右注：原生的语法两边都要用 | 包起来。此处省略 九、代码语法：单行1`内容` 多行123```内容(三个`) 效果如下：单行代码 代码内容 多行代码1代码内容 十、流程图123456789flowst=&gt;start: 开始op=&gt;operation: My Operationcond=&gt;condition: Yes or No?e=&gt;endst-&gt;op-&gt;condcond(yes)-&gt;econd(no)-&gt;op&amp; 效果如下：flowst=&gt;start: 开始op=&gt;operation: My Operationcond=&gt;condition: Yes or No?e=&gt;endst-&gt;op-&gt;condcond(yes)-&gt;econd(no)-&gt;op&amp; (博客似乎不支持)！ 祝你在这里记录、阅读、分享愉快！ 作者： 郭恩泽 有问题找tianjiangqiji@qq.com或者tianjiangqiji@163.com2018 年 07月 30日]]></content>
+    <content type="text"><![CDATA[Markdown基本语法 markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。 相比WYSIWYG编辑器 优点：1、因为是纯文本，所以只要支持markdown的地方都能获得一样的编辑效果，可以让作者摆脱排版的困扰，专心写作。2、操作简单。比如:WYSIWYG编辑时标记个标题，先选中内容，再点击导航栏的标题按钮，选择几级标题。要三个步骤。而markdown只需要在标题内容前加#即可 缺点：1、需要记一些语法（当然，是很简单。五分钟学会）。2、有些平台不支持markdown编辑模式。 一，标题在想要设置为标题的文字前面加#来表示一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。 注：标准语法一般在#后跟个空格再写文字，貌似简书不加空格也行。 示例： 这是一级标题这是二级标题这是三级标题这是四级标题这是五级标题这是六级标题 二、字体加粗要加粗的文字左右分别用两个号包起来斜体要倾斜的文字左右分别用一个号包起来斜体加粗要倾斜和加粗的文字左右分别用三个*号包起来删除线要加删除线的文字左右分别用两个~~号包起来示例：1234**这是加粗的文字***这是倾斜的文字****这是斜体加粗的文字***~~这是加删除线的文字~~ 就出现 这是加粗的文字这是倾斜的文字这是斜体加粗的文字这是加删除线的文字 三，引用在引用的文字前加&gt;即可。引用也可以嵌套，如加两个&gt;&gt;三个&gt;&gt;&gt;n个…貌似可以一直加下去，但没神马卵用示例：123&gt; 这是引用的内容&gt;&gt; 这是引用的内容&gt;&gt;&gt; 这是引用的内容 这是引用的内容 这是引用的内容 这是引用的内容 四、分割线三个或者三个以上的 - 或者 * 都可以。示例：12---*** 出现的分割线是一样的 五、图片语法：1![图片alt](图片地址 &apos;&apos;图片title&apos;&apos;) 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加 输入12![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&amp;fm=27&amp;gp=0.jpg) 图片就有了 六、超链接语法：1[超链接名](超链接地址 &quot;超链接title&quot;) title可加可不加示例： 百度 七、列表无序列表语法：无序列表用 - + * 任何一种都可以123- 列表内容+ 列表内容* 列表内容 注意：- + * 跟内容之间都要有一个空格 效果如下： 列表内容 列表内容 列表内容 有序列表语法：数字加点 1.列表内容2.列表内容3.列表内容 注意：序号跟内容之间要有空格 八、表格语法：1234表头|表头|表头---|:--:|---:内容|内容|内容内容|内容|内容 第二行分割表头和内容。 有一个就行，为了对齐，多加了几个文字默认居左-两边加：表示文字居中-右边加：表示文字居右注：原生的语法两边都要用 | 包起来。此处省略 九、代码语法：单行1`内容` 多行123```内容(三个`) 效果如下：单行代码 代码内容 多行代码1代码内容 十、流程图123456789flowst=&gt;start: 开始op=&gt;operation: My Operationcond=&gt;condition: Yes or No?e=&gt;endst-&gt;op-&gt;condcond(yes)-&gt;econd(no)-&gt;op&amp; 效果如下：flowst=&gt;start: 开始op=&gt;operation: My Operationcond=&gt;condition: Yes or No?e=&gt;endst-&gt;op-&gt;condcond(yes)-&gt;econd(no)-&gt;op&amp; (博客似乎不支持)！ 祝你在这里记录、阅读、分享愉快！ 作者：天降奇迹 有问题找tianjiangqiji@qq.com或者tianjiangqiji@163.com2018 年 07月 30日]]></content>
       <categories>
         <category>Markdown</category>
       </categories>
