@@ -12,28 +12,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[只有想不到的「干货」1)]]></title>
-    <url>%2F2019%2F03%2F24%2F%E5%8F%AA%E6%9C%89%E6%83%B3%E4%B8%8D%E5%88%B0%E7%9A%84%E3%80%8C%E5%B9%B2%E8%B4%A7%E3%80%8D1)%2F</url>
-    <content type="text"><![CDATA[只有想不到的「干货」1) 卡硬工具箱集百家之长，掌握主机的每个角落。 大小：183 MB （解压后：531 MB） 致力于打造最全面实用的硬件检测、管理、性能测试工具，软件集合熟知的各个配件的检测工具；超频工具；拷机测试工具；以及各种实用软件，助力您的玩机生涯。 这里发给图片给你们看看 ↓ EverythingEverything是速度最快的文件搜索软件，可以瞬间搜索到你需要的文件。 注意：文件系统需要NTFS格式 如果你在Win7或者Win8里无法使用这个 Everything 中文绿色版，请依次点击“工具”——“设置”——“Everything Service”打勾——“应用”。 图片 ↓ 今日头条本文链接：https://www.toutiao.com/i6565321327526281731/ 欢迎到今日头条看。————关注：Buter干货 大鱼号本文链接：https://mparticle.uc.cn/article.html?uc_param_str=frdnsnpfvecpntnwprdssskt&amp;wm_aid=e0b6cde2649a4d9ea2f5ee70ff74fc19 欢迎到UC浏览器看。————关注：Buter干货祝你在这里记录、阅读、分享愉快！ 作者：天降奇迹 有问题找tianjiangqiji@qq.com或者tianjiangqiji@163.com2018 年 07月 30日]]></content>
-      <categories>
-        <category>今日头条同步发送</category>
-      </categories>
-      <tags>
-        <tag>今日头条</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[公告]]></title>
-    <url>%2F2019%2F03%2F17%2F%E5%85%AC%E5%91%8A%2F</url>
-    <content type="text"><![CDATA[公告 此博客不定期更新，欢迎浏览。1.此博客也转发作者在今日头条的文章。 网站测速： 以后有什么事情将会在这里说明。 祝你在这里记录、阅读、分享愉快！ 作者：天降奇迹 有问题找tianjiangqiji@qq.com或者tianjiangqiji@163.com2018 年 07月 30日]]></content>
-      <categories>
-        <category>公告</category>
-      </categories>
-      <tags>
-        <tag>公告</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Markdown基本语法]]></title>
     <url>%2F2018%2F08%2F01%2FMarkdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%2F</url>
     <content type="text"><![CDATA[Markdown基本语法 markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。 相比WYSIWYG编辑器 优点：1、因为是纯文本，所以只要支持markdown的地方都能获得一样的编辑效果，可以让作者摆脱排版的困扰，专心写作。2、操作简单。比如:WYSIWYG编辑时标记个标题，先选中内容，再点击导航栏的标题按钮，选择几级标题。要三个步骤。而markdown只需要在标题内容前加#即可 缺点：1、需要记一些语法（当然，是很简单。五分钟学会）。2、有些平台不支持markdown编辑模式。 一，标题在想要设置为标题的文字前面加#来表示一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。 注：标准语法一般在#后跟个空格再写文字，貌似简书不加空格也行。 示例： 这是一级标题这是二级标题这是三级标题这是四级标题这是五级标题这是六级标题 二、字体加粗要加粗的文字左右分别用两个号包起来斜体要倾斜的文字左右分别用一个号包起来斜体加粗要倾斜和加粗的文字左右分别用三个*号包起来删除线要加删除线的文字左右分别用两个~~号包起来示例：1234**这是加粗的文字***这是倾斜的文字****这是斜体加粗的文字***~~这是加删除线的文字~~ 就出现 这是加粗的文字这是倾斜的文字这是斜体加粗的文字这是加删除线的文字 三，引用在引用的文字前加&gt;即可。引用也可以嵌套，如加两个&gt;&gt;三个&gt;&gt;&gt;n个…貌似可以一直加下去，但没神马卵用示例：123&gt; 这是引用的内容&gt;&gt; 这是引用的内容&gt;&gt;&gt; 这是引用的内容 这是引用的内容 这是引用的内容 这是引用的内容 四、分割线三个或者三个以上的 - 或者 * 都可以。示例：12---*** 出现的分割线是一样的 五、图片语法：1![图片alt](图片地址 &apos;&apos;图片title&apos;&apos;) 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加 输入12![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&amp;fm=27&amp;gp=0.jpg) 图片就有了 六、超链接语法：1[超链接名](超链接地址 &quot;超链接title&quot;) title可加可不加示例： 百度 七、列表无序列表语法：无序列表用 - + * 任何一种都可以123- 列表内容+ 列表内容* 列表内容 注意：- + * 跟内容之间都要有一个空格 效果如下： 列表内容 列表内容 列表内容 有序列表语法：数字加点 1.列表内容2.列表内容3.列表内容 注意：序号跟内容之间要有空格 八、表格语法：1234表头|表头|表头---|:--:|---:内容|内容|内容内容|内容|内容 第二行分割表头和内容。 有一个就行，为了对齐，多加了几个文字默认居左-两边加：表示文字居中-右边加：表示文字居右注：原生的语法两边都要用 | 包起来。此处省略 九、代码语法：单行1`内容` 多行123```内容(三个`) 效果如下：单行代码 代码内容 多行代码1代码内容 十、流程图123456789flowst=&gt;start: 开始op=&gt;operation: My Operationcond=&gt;condition: Yes or No?e=&gt;endst-&gt;op-&gt;condcond(yes)-&gt;econd(no)-&gt;op&amp; 效果如下：flowst=&gt;start: 开始op=&gt;operation: My Operationcond=&gt;condition: Yes or No?e=&gt;endst-&gt;op-&gt;condcond(yes)-&gt;econd(no)-&gt;op&amp; (博客似乎不支持)！ 十一、视频123&lt;video id=&quot;video&quot; controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg&quot;&gt; &lt;source id=&quot;mp4&quot; src=&quot;http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.mp4&quot; type=&quot;video/mp4&quot;&gt; &lt;/video&gt; 效果： 祝你在这里记录、阅读、分享愉快！ 作者：天降奇迹 有问题找tianjiangqiji@qq.com或者tianjiangqiji@163.com2018 年 07月 30日]]></content>
