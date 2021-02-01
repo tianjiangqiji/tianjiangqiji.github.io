@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/xiazaizhuanqu.html</loc>
+    
+    <lastmod>2021-02-01T01:58:08.172Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/lt.html</loc>
+    
+    <lastmod>2021-01-30T12:33:24.455Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/llq.html</loc>
+    
+    <lastmod>2021-01-30T12:32:59.822Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/08/01/Markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</loc>
     
     <lastmod>2020-03-27T08:30:20.887Z</lastmod>
@@ -9,23 +30,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/xiazaizhuanqu.html</loc>
-    
-    <lastmod>2020-03-27T08:23:48.136Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/minecraft.html</loc>
     
     <lastmod>2020-03-27T08:21:46.577Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/llq.html</loc>
-    
-    <lastmod>2020-01-14T12:31:08.509Z</lastmod>
     
   </url>
   
@@ -47,13 +54,6 @@
     <loc>http://yoursite.com/404.html</loc>
     
     <lastmod>2018-12-23T02:13:56.305Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/lt.html</loc>
-    
-    <lastmod>2018-12-08T07:09:08.296Z</lastmod>
     
   </url>
   
